@@ -1,0 +1,5 @@
+Package Manager 
+소프트웨어 관리 프로그램을 지칭
+
+Node js는 NPM을 주로 씀
+PM2라는 웹페이지에서 무료로 NPM명령어들이 정리된것을 볼 수 있음
